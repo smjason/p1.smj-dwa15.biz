@@ -11,11 +11,12 @@ h1, h2
 body
 	
     {height:100%;
-    width: 960px;
+    width: 600px;
     margin:auto;
     font-family:Arial, sans-serif;
     font-size:14px;
     color:#333333;
     line-height:25px;
-    background-color:#fff;
+    background-color:#FFE6CC;
+	text-align:center;
 }
