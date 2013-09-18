@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Changing the header colors */
+
+h1, h2
+
+	{color:#ff0000;
+}
+
+body
+	
+    {height:100%;
+    width: 960px;
+    margin:auto;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    color:#333333;
+    line-height:25px;
+    background-color:#fff;
+}
